@@ -1,0 +1,7 @@
+{
+    "name": "necms/template-default",
+    "description": "Default template",
+    "type": "necms/template-default",
+    "license": "MIR",
+    "require": {}
+}
